@@ -1,0 +1,71 @@
+@Unicode	
+@Begin	
+@Languages:	English
+@Participants:	*MOT Target_Parents|*CHI Child
+@ID:	eng|Lara|MOT|3;0011||||Target_Parents|||
+@ID:	eng|Lara|CHI|||||Child|||
+@Date:	Unknown
+@Location:	
+@Filename:	VS014_Narration Transcript_Yezhou.txt
+@Comment:	164 seconds
+@Comment:	transcribed by Yezhou
+@Reference:	VS014
+@Situation:	
+@Start	
+*MOT	okay let s read the book
+*MOT	have you seen my ducklings
+*MOT	so the ducklings one two three four five six seven eight
+*MOT	eight ducklings
+*MOT	have you seen my duckling
+*MOT	early one morning
+*MOT	early one morning
+*MOT	and still early in the morning
+*MOT	is not that you have to come out with the story
+*MOT	see the ducklings so cute
+*MOT	one of the duckling is hiding here
+*MOT	see it s going there to catch the insect you know
+*MOT	yes the mother duckling is actually looking for food
+*MOT	look at the mama mama
+*MOT	look here look here
+*MOT	can you spot where is the duckling
+*MOT	where is the duckling
+*MOT	the missing one
+*MOT	see look at here here
+*MOT	look here here
+*MOT	look at this duckling
+*MOT	so all the duckling right
+*MOT	this duck start following the mum
+*MOT	but the could not find
+*MOT	okay they are not going too well
+*MOT	come here see
+*MOT	see the mother 
+*MOT	see
+*MOT	mother goose mother duck goes
+*MOT	have you seen my duckling
+*MOT	have you seen my duckling
+*MOT	see
+*MOT	have you seen my duckling
+*MOT	and she goes
+*MOT	see first she goes to this
+*MOT	what does this look like
+*MOT	she looks like a bird
+*MOT	and she goes to a tortoise
+*MOT	then she goes to a 
+*MOT	then she goes to a beaver
+*MOT	beaver beaver
+*MOT	why are you look so excited now
+*MOT	she asked the fish
+*MOT	look at this fish
+*MOT	fish fish
+*MOT	she is like
+*MOT	have you seen my duckling
+*MOT	then she ask this other 
+*MOT	what this looks like a
+*MOT	i dont know
+*MOT	can you see the butterfly
+*MOT	where is the butterfly
+*MOT	oh look at this duckling hiding here
+*MOT	oh look at this
+*MOT	hiding from the mother so cute
+*MOT	now you spot it
+*MOT	she find it 
