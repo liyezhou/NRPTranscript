@@ -1,0 +1,70 @@
+@Unicode	
+@Begin	
+@Languages: English|Chinese
+@Participants: *MOT Target_Mother *CHI Child	
+@ID: eng|Lara|MOT|||||Target_Mother|||	
+@ID: eng|Lara|CHI|||||Child|||	
+@Date: 	
+@Location:	
+@Comment: Filename: VS013_Narration Transcript_Yezhou.txt	
+@Comment: 220 seconds	
+@Comment: transcribed by Yezhou	
+@Situation:	
+@Start
+*MOT: have you seen my duckling
+*MOT: what's that
+*MOT: early one morning
+*MOT: how many ducklings do you see
+*MOT: okay one two three four five six seven
+*MOT: some more that's mama yes
+*MOT: what's mama doing
+*MOT: elephant
+*MOT: auntie
+*MOT: where's the ducklings going to
+*MOT: where are they going to play are they
+*MOT: have you seen my duckling
+*MOT: ah o did she lose her duckling
+*MOT: a little duckling
+*MOT: auntie will come back
+*MOT: look at this one
+*MOT: have you seen my duckling
+*MOT: a beaver
+*MOT: have you seen my duckling
+*MOT: what does the beaver say
+*MOT: can you see the duckling
+*MOT: anywhere
+*MOT: one have you seen my duckling
+*MOT: where's the duckling
+*MOT: can you see the duckling
+*MOT: it's hiding
+*MOT: what's this
+*MOT: is like that
+*MOT: can you see the duckling hiding
+*MOT: have you seen my duckling
+*MOT: where's the duckling
+*MOT: the one that is hiding
+*MOT: where is it
+*MOT: this side like that
+*MOT: nah wrong side
+*MOT: naughty duckling it's hiding
+*MOT: yes and where is it hiding
+*MOT: where's it hiding
+*MOT: here no here it's very small
+*MOT: here but where is it hiding
+*MOT: can you find
+*MOT: it's very small
+*MOT: can you find
+*MOT: where's the duckling hiding
+*MOT: what about this one
+*MOT: can you see the duckling in the flower
+*MOT: where show me
+*MOT: good
+*MOT: how about this one
+*MOT: where's the duckling hiding
+*MOT: yes no more
+*MOT: so she found the duckling who is very normal
+*MOT: now the duckling is going with the mama yes
+*MOT: sleeping time
+*MOT: sleeping time
+*MOT: good night
+*MOT: goodbye

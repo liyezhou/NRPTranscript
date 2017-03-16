@@ -1,0 +1,92 @@
+@Unicode
+@Begin
+@Languages: eng
+@Participants:	MOT Target_Mother  CHI Child
+@ID:	eng|Lara|MOT|3;0011||||Target_Mother|||
+@ID:	eng|Lara|CHI|||||Child|||
+@Date:	12 Apr 2015
+@Location:	Potong Pasir
+@Comment:	Filtra
+ename: VS009_Narration Transcript_Dilu.rtf
+@Comment:	time duration 
+@Comment:	transcribed by Dilu (collated by Junyi)
+@Situation:	
+@Start
+MOT: well read from the first page 
+MOT: this book is called 
+MOT: have you seen my duckling 
+MOT: early one morning 
+MOT: how many ducklings can you see here 
+MOT: wait wait wait read from the first page 
+MOT: oh oh you count can you count how many ducklings can you see 
+MOT: how many ducklings can you see 
+MOT: have you seen my ducklings 
+MOT: the mummy is looking for her ducklings 
+MOT: so the mummy still cant find her ducklings 
+MOT: where are the ducklings 
+MOT: oh here 
+MOT: how many ducklings can you count c
+MOT: an you count what is this this another 
+MOT: (child distracted) 
+MOT: eh oh you wont listen just look at the pictures 
+MOT: can you see the pictures
+MOT: can you see the pictures 
+MOT: oh its upside down what is this 
+MOT: what is this 
+CHI: oh oh oh
+MOT: what is oh oh oh 
+MOT: what is oh oh oh ah 
+MOT: what is this
+CHI: baby duck 
+MOT: baby duck t
+MOT: his is no baby duck 
+CHI: ugly duck
+MOT: what duck 
+MOT: you finished 
+MOT: why you finished the whole book 
+MOT: you finished the whole book 
+MOT: can we read again from the first page slowly 
+MOT: boy you see there is another duck here 
+MOT: lost he is lost 
+MOT: he cannot find his mother duck 
+MOT: where is the mother duck
+CHI: oh
+MOT: oh here say here 
+CHI: here
+MOT: here yes here 
+MOT: what is this
+CHI: mummy
+MOT: ah mummy duck 
+MOT: *laughter* 
+MOT: eh eh read read come read again 
+MOT: read again read again what is this
+CHI: turtle
+MOT: turtle turtle turtle 
+MOT: eh sit properly sit properly 
+MOT: sit properly 
+MOT: read again 
+MOT: come read again 
+MOT: dont want to read finished the book 
+MOT: finished the book want me to read for you again
+CHI: oh
+MOT: what is oh oh oh 
+MOT: the mother duck is sleeping 
+MOT: the mother duck is sleeping 
+MOT: where are the ducklings 
+MOT: where are the ducklings
+MOT: can you find them
+CHI: oh
+MOT: i think is plants some plants here 
+MOT: oh i saw a frog can you find the frog 
+MOT: where is the frog 
+CHI: oh
+MOT: no no there 
+CHI: duck
+MOT: duck yes but where is the frog
+CHI: duck
+MOT: yes the duckling is here 
+MOT: how many one two three 
+MOT: can you find the frog 
+MOT: look yes say here 
+MOT: it is say here it is 
+MOT: are you done

@@ -1,0 +1,77 @@
+@Unicode
+@Begin
+@Languages: eng
+@Participants:	MOT Target_Mother  CHI Child
+@ID:	eng|Lara|MOT|3;0011||||Target_Mother|||
+@ID:	eng|Lara|CHI|||||Child|||
+@Date:	18 Dec 2014
+@Location:	Serangoon
+@Comment:	Filtra
+ename: VS003_Narration Transcript_Galston.txt
+@Comment:	time duration 
+@Comment:	transcribed by Galston (collated by Junyi)
+@Situation:	
+@Start
+MOT: butterfly can you see butterfly
+MOT: okay you wanna see early one morning
+MOT: lets see what happens baby (random sounds) (baby)
+MOT: sorry ah
+MOT: lets close the curtains
+MOT: have you seen my duckling 
+MOT: have you seen the duckling 
+MOT: how many ducklings are there 
+MOT: one two three four five six seven and eight ducklings
+MOT: so early one morning 
+MOT: what happens you have one two three four five six seven 
+MOT: and this little one has decided to go and explore 
+MOT: so the mother comes along 
+MOT: and asks the 
+MOT: wheres my duckling 
+MOT: wheres the little one 
+MOT: and she says you know what 
+MOT: i think we should go and look for him 
+MOT: because hes lost right 
+MOT: the last one is not there anymore 
+MOT: so but actually baby is just here 
+MOT: they are in this part of they of their home 
+MOT: and this little duckling is on the other side gone to explore the world 
+MOT: yes you want to go and find together 
+MOT: shall we go and find the duckling together 
+MOT: so she goes and swims and she asks this 
+MOT: i dont know is it a heron 
+MOT: its another kind of bird 
+MOT: have you seen my duckling 
+MOT: and this heron i dont know whether the heron says yes 
+MOT: maybe he says no you should try someone else 
+MOT: so lets see the next slide she goes to the walrus 
+MOT: she asks the walrus 
+CHI: (vocalises)
+MOT: have you seen my duckling 
+MOT: this big brown little thing and the walrus goes 
+MOT: and he grabs a log and says 
+MOT: come i will help you find him what happens next 
+MOT: she asks this little green fish  
+MOT: have you seen my duckling 
+MOT: and everybody is very very kan chiong 
+MOT: and they go and try swimming along in the lake 
+MOT: to try and find the little duckling 
+MOT: the mother duck comes to the next one she herself is a mother 
+MOT: can you see she has many babies 
+MOT: i can see one two and here one more 
+MOT: three babies 
+MOT: so they go swimming swimming swimming 
+MOT: and look the turtle has found the duckling 
+MOT: the turtle were gonna get jie jie a turtle for christmas 
+MOT: the turtle has found the duckling 
+MOT: okay what happens next 
+MOT: once the mommy has found you 
+MOT: see this is one two three four five six seven ducks 
+MOT: the last one has been found by the turtle 
+MOT: yay good job good job mei mei
+MOT: what is the next page 
+MOT: what is the next page 
+MOT: what is the next page mei mei
+MOT: and oops
+MOT: and they all reunited happily ever after
+CHI: (vocalises)
+MOT: what are you eating what are you eating

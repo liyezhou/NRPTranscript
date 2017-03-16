@@ -1,0 +1,96 @@
+@Unicode	
+@Begin	
+@Languages: English	
+@Participants: *MOT Target_Mother *CHI Child	
+@ID: eng|Lara|MOT|||||Target_Mother|||	
+@ID: eng|Lara|CHI|||||Child|||	
+@Date: 	
+@Location:	
+@Comment: Filename: VS016_Narration Transcript_Yezhou.txt	
+@Comment: 294 seconds	
+@Comment: transcribed by Yezhou	
+@Situation:	
+@Start	
+*MOT: kwek kwek kwek
+*MOT: have you seen my duckling
+*MOT: where is the duckling
+*MOT: can you tell me where is the duckling
+*MOT: here how many
+*MOT: one two three four five six seven
+*MOT: and one is running away
+*MOT: where are they going
+*MOT: early one morning
+*MOT: kwek kwek kwek kwek kwek
+*MOT: the baby duckling
+*MOT: what is this this
+*MOT: mummy duckling
+*MOT: mummy duckling came swimming
+*MOT: mummy baby
+*MOT: what does the baby say
+*MOT: what does the baby say
+*MOT: baby say good morning to mummy
+*MOT: can you say good morning
+*MOT: can you say good morning to mummy
+*MOT: ok
+*MOT: oh what is this duckling doing here
+*MOT: mummy is here baby is here
+*MOT: what is this
+*MOT: is this brother
+*MOT: kwek kwek kwek kwek
+*MOT: how many
+*MOT: mummy say okay let's go out
+*MOT: so all the duckling came out
+*MOT: and how many are there
+*MOT: one two three four five six seven
+*MOT: where is one more duckling
+*MOT: there should be eight
+*MOT: one more duckling
+*MOT: where is the other duckling
+*MOT: where
+*MOT: there is one more duckling
+*MOT: have you seen my duckling
+*MOT: mummy say i can't find my baby
+*MOT: so she ask this bird
+*MOT: have you seen my duckling
+*MOT: what is this flower
+*MOT: what is this flower
+*MOT: lotus ok
+*MOT: mummy went to the land and ask the beaver
+*MOT: this is a big fat beaver
+*MOT: can you say beaver
+*MOT: beaver
+*MOT: and what is this
+*MOT: mummy duckling ask the tortoise
+*MOT: have you seen my duckling
+*MOT: no
+*MOT: so mummy went to ask the beaver
+*MOT: have you seen my duckling
+*MOT: one two three four five six seven
+*MOT: it's hiding here
+*MOT: they tell mummy duck
+*MOT: so mummy duck went into the water
+*MOT: here is the mummy duck
+*MOT: the mummy duck went into the water
+*MOT: ask the fish
+*MOT: fish fish have you seen my duckling
+*MOT: the fish say
+*MOT: no
+*MOT: you see all the baby duck also went into the water
+*MOT: because you want to see all the duckling head is it
+*MOT: ok come next one
+*MOT: and now the mummy duck swim swim swim
+*MOT: swim along and saw another bird
+*MOT: bird and ask have you seen my duckling
+*MOT: no
+*MOT: and we turn to the next page
+*MOT: kwek kwek kwek
+*MOT: where is the duckling
+*MOT: did you see
+*MOT: you see
+*MOT: you see the duckling
+*MOT: where is the duckling
+*MOT: yay the mummy found the duckling
+*MOT: hooray
+*MOT: now the baby duckling is back with the mummy again
+*MOT: so the mother went and bring all the ducklings back to home to the nest to rest
+*MOT: do you like this book

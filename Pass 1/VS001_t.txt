@@ -1,0 +1,100 @@
+@Unicode
+@Begin
+@Languages: eng
+@Participants:	MOT Target_Mother  CHI Child
+@ID:	eng|Lara|MOT|3;0011||||Target_Mother|||
+@ID:	eng|Lara|CHI|||||Child|||
+@Date:	Jan-07-2015
+@Location:	Jurong Singapore
+@Comment:	Filtra
+ename: VS001_Narration Transcript_Li Tingtxt
+@Comment:	time duration 
+@Comment:	transcribed by Li Ting (collated by Junyi)
+@Situation:	
+@Start
+MOT: owl be here
+MOT: ok we’ll read a book today 
+MOT: it’s called “have you seen my duckling”
+MOT: you see it 
+MOT: you are interested in the owl 
+MOT: that’s fine 
+MOT: usually he just eats the book all I guess 
+MOT: you see the ducklings
+MOT: it says early one morning what is these all ducklings 
+MOT: one two three four five six seven seven of them 
+MOT: what happens
+MOT: ah! you see the mummy coming from far away 
+MOT: you see all the tree no trees grass and bushes and they are at home
+CHI: uh
+MOT: and here the mummy is
+CHI: uh huh err
+MOT: right by the ducklings 
+MOT: and what are they going to do next can you see them that’s
+CHI: uh
+MOT: so oh! the mummy swam away! and the duckling follows them follows the mummy 
+MOT: and then what happens the mummy
+CHI: uh uhhhh
+MOT: ran into a bird
+CHI: uh
+MOT: and the mummy asked him
+CHI: uh uh uh uh uh uh ah ah
+MOT: “have you seen my ducklings” 
+MOT: hmm you see the flower
+CHI: uh uh uh
+MOT: and the ducklings 
+MOT: should we count them again 
+MOT: one two three four five six seven seven ducklings 
+MOT: and what (happen) next
+MOT: and then they ran into a turtle! 
+MOT: and mummy also asked the question “have you seen my duckling” 
+MOT: and then also see a beaver on the side 
+MOT: what is the beaver doing 
+MOT: the beaver is eating the tree
+MOT: and then they’re following the beaver
+CHI: hmm
+MOT: where’s the beaver going 
+MOT: and the mama also asks“have you seen my ducklings
+CHI: uh uh
+MOT: have you seen my ducklings”
+CHI: hmm
+MOT: no you haven’t
+CHI: hmm
+MOT: you haven’t are you sure
+CHI: uh huh
+MOT: see here’s the ducklings 
+MOT: again one two three four five six seven
+CHI: uh uh uh uh uh
+MOT: no ok let’s see what happen next
+MOT: and then 
+MOT: they’ve seen various animals in the water 
+MOT: see a turtle a fish and agreen fish! 
+MOT: and then a (lizard) a shrimp maybe and a froggie ooh
+MOT: and then the mama also asking “have you seen myducklings”
+CHI: uh
+MOT: hmm next one
+MOT: and what happened now 
+MOT: they’re all together with the mama 
+MOT: and then they have seen other birds 
+MOT: and other I don’t know birds 
+MOT: and mama also asks
+CHI: uh uh uhhhhh
+MOT: “have you seen my duckling”
+CHI: uh uh ahhhhh
+MOT: and then yar and then
+CHI: uh uh uh ahhhhh
+MOT: they swim around the flowers turtles grass 
+MOT: and more flowers more butterfly 
+MOT: and then what 
+MOT: where are they going
+MOT: oh! suddenly it’s night time 
+MOT: they are home now 
+MOT: where are they 
+MOT: what are they doing 
+MOT: you see 
+MOT: they’re sleeping 
+MOT: sleeping
+CHI: uh ah ah ah
+MOT: hmmm you want to sleep too 
+MOT: you want to sleep too
+MOT:  alright 
+MOT: that’s the end
