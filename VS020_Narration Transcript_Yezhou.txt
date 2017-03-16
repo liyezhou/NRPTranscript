@@ -1,7 +1,7 @@
 @Unicode	
 @Begin	
 @Languages: English|German	
-@Participants: *MOT Target_Mother *CHI Child	
+@Participants: *MOT Target_Father *CHI Child	
 @ID: eng|Lara|MOT|||||Target_Mother|||	
 @ID: eng|Lara|CHI|||||Child|||	
 @Date: 	
@@ -26,7 +26,7 @@
 *MOT	ugh don t turn the page early
 *MOT	wait we go from the beginning
 *MOT	we go from the beginning
-*MOT	ok ok i will show you the begining 
+*MOT	ok ok i will show you the beginning 
 *MOT	early one morning
 *MOT	there were a lot of little ducklings
 *MOT	can you see them all
@@ -38,9 +38,9 @@
 *MOT	are there seven duckling
 *MOT	oh then what s this over here
 *MOT	butterfly
-*MOT	it s flying away isnt him
+*MOT	it s flying away isn t him
 *MOT	the bird wants to catch the butterfly
-*MOT	maybe he s just looking out but he cant catch them
+*MOT	maybe he s just looking out but he can’t catch them
 *MOT	coz the butterfly is flying away too fast right
 *MOT	ya mama is looking for the ducklings
 *MOT	did you ever see some ducklings before
@@ -100,10 +100,10 @@
 *MOT	the nest is not a pond
 *MOT	so mama duck came back
 *MOT	what did mama duck say to the ducklings
-*MOT	kwek kwek kwek
+*MOT	quack quack quack
 *MOT	and one of the ducklings say to mama
-*MOT	can you kwek like a duckling
-*MOT	kwek kwek
+*MOT	can you quack like a duckling
+*MOT	quack-quack
 *MOT	they are all so happy
 *MOT	where is the beak
 *MOT	the beak of the mama duck
@@ -115,7 +115,7 @@
 *MOT	where are the ducklings beak
 *MOT	ducklings have little beaks right
 *MOT	and the mama came back and said hello
-*MOT	and all the ducklings said kwek kwek
+*MOT	and all the ducklings said quack quack
 *MOT	but one duckling went away
 *MOT	which one went away
 *MOT	there he is
